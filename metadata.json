@@ -1,0 +1,6 @@
+{
+  "name": "DataMart - Dataset Marketplace",
+  "description": "Ghana's premier spendless mobile data bundle topup and reseller platform. Buy 1GB - 120GB MTN, Telecel, and AirtelTigo packages with instant MoMo delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
